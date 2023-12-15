@@ -2,6 +2,9 @@
 
 ## See `doc/lcom_proj.pdf` for the full report on how everything was implemented. 
 
+## Video of the game
+https://github.com/lulvz/LCOM/assets/39245636/231f629e-e391-45c7-a3e6-8a84de64361a
+
 ## Game menu
 ![Type Runner](doc/img/menu.png)
 
