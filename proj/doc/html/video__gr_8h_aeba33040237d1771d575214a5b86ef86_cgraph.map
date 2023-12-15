@@ -1,0 +1,5 @@
+<map id="copy_mem" name="copy_mem">
+<area shape="rect" id="Node000001" title="Copies the contents of the video buffer to the video memory." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="139,5,276,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,16,124,16,124,21,91,21"/>
+</map>

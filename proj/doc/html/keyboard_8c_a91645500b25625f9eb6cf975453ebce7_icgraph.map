@@ -1,0 +1,9 @@
+<map id="mouse_write_cmd" name="mouse_write_cmd">
+<area shape="rect" id="Node000001" title="Writes a command to the mouse." alt="" coords="510,13,637,40"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a3c4e368c416224abdef4276beb3ef7e4" title="Enables mouse data reporting." alt="" coords="268,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,29,463,29,463,24,496,24"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a832d39f5c041bf59c16063e0c4bf210b" title="Simultaniously intializes all the sprites, video card, RTC (real&#45;time clock) and calls subscribe_ints..." alt="" coords="162,13,220,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,29,221,29,221,24,253,24"/>
+<area shape="rect" id="Node000004" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,13,114,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,29,114,29,114,24,147,24"/>
+</map>

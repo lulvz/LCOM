@@ -1,0 +1,33 @@
+<map id="vg_draw_pixel" name="vg_draw_pixel">
+<area shape="rect" id="Node000001" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="994,183,1096,209"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#af3d48301439b1a7536212794165a0917" title="Draws a character in the specified coordinates with the specified color." alt="" coords="832,56,931,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,173,989,134,945,97,924,86,926,81,948,92,992,130,1027,169"/>
+<area shape="rect" id="Node000008" href="$video__gr_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line in the specified coordinates with the specified color." alt="" coords="831,107,932,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1000,178,911,136,913,131,1002,173"/>
+<area shape="rect" id="Node000010" href="$video__gr_8c.html#a50ba338a74273d7a169b05c9b42cea4b" title="Draws a sprite specified in the argument." alt="" coords="663,157,769,184"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="979,194,769,177,769,172,979,188"/>
+<area shape="rect" id="Node000012" href="$video__gr_8c.html#a0c7306536a40695dd2aa3454ff3bf4e3" title="Draws a xpm image in the specified coordinates." alt="" coords="820,208,944,235"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="980,209,945,214,944,209,979,204"/>
+<area shape="rect" id="Node000013" href="$video__gr_8c.html#a30ef1aed10a8f8658647c78b8c5a8d0a" title="Erases a sprite specified in the argument." alt="" coords="826,259,937,285"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="1007,219,947,249,921,260,919,256,945,244,1005,214"/>
+<area shape="rect" id="Node000014" href="$video__gr_8c.html#a09e625a4c3ae78891f4030a962597c4f" title="Erases a xpm image in the specified coordinates." alt="" coords="817,309,946,336"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="1027,223,992,262,948,300,926,311,924,306,945,295,989,258,1023,219"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#aa6f33847fa05e5123517fab111cc6114" title="Draws a string in the specified coordinates with the specified color." alt="" coords="663,56,769,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,72,769,72,769,67,817,67"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#a9cd7022ff34c76c5e3028c16419cf075" title="Draws a word in the screen." alt="" coords="474,5,589,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="650,54,582,35,584,30,652,49"/>
+<area shape="rect" id="Node000005" href="$manager_8c.html#a9df05b246940004343097316105b03b0" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="329,107,400,133"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="648,75,553,82,449,97,402,110,400,105,448,92,552,77,647,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="475,40,450,53,411,81,381,108,378,104,408,77,447,48,472,36"/>
+<area shape="rect" id="Node000006" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,107,281,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="314,123,281,123,281,117,314,117"/>
+<area shape="rect" id="Node000007" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,107,114,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="147,123,114,123,114,117,147,117"/>
+<area shape="rect" id="Node000009" href="$manager_8c.html#a05b70e6e0957319c26d4c7c8109cb407" title="Draws an underline under the character that the user is currently typing." alt="" coords="478,107,585,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="816,123,585,123,585,117,816,117"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="463,123,401,123,401,117,463,117"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="647,171,552,163,448,148,400,135,402,130,449,143,553,158,648,165"/>
+<area shape="rect" id="Node000011" href="$video__gr_8c.html#ab3e119ee89e4ebb8919ecd007f0fd99c" title=" " alt="" coords="448,208,615,235"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="652,191,584,210,582,205,650,186"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="472,204,447,192,408,163,378,136,381,132,411,159,450,187,475,200"/>
+</map>

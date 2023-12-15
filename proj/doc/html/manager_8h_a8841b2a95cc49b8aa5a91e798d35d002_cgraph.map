@@ -1,0 +1,11 @@
+<map id="unsubscribe_ints" name="unsubscribe_ints">
+<area shape="rect" id="Node000001" title="Simultaniously unsubscribes to all interrupts." alt="" coords="5,81,125,108"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#ac95aea27a5e91b363b876fed881f368f" title="Unsubscribes keyboard interrupts." alt="" coords="173,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,78,172,42,192,34,193,39,174,46,94,83"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts." alt="" coords="180,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,84,164,79,165,84,126,90"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#ab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC interrupts." alt="" coords="192,107,326,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,100,177,107,176,112,125,105"/>
+<area shape="rect" id="Node000005" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="185,157,333,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="94,106,174,143,193,150,192,155,172,148,91,111"/>
+</map>

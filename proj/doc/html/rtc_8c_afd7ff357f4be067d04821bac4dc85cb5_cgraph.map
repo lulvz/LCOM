@@ -1,0 +1,14 @@
+<map id="get_full_date_time" name="get_full_date_time">
+<area shape="rect" id="Node000001" title="Formats the date and time into a string." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="180,56,272,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,67,165,67,165,72,132,72"/>
+<area shape="rect" id="Node000003" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="324,5,426,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,53,319,35,321,40,268,58"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="320,56,429,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,67,305,67,305,72,273,72"/>
+<area shape="rect" id="Node000005" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="477,81,589,108"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="269,81,320,92,394,97,463,97,463,102,394,103,320,97,268,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="430,75,463,81,462,86,429,81"/>
+<area shape="rect" id="Node000006" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="637,81,727,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="589,92,622,92,622,97,589,97"/>
+</map>

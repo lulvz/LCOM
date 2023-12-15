@@ -1,0 +1,7 @@
+<map id="vg_erase_xpmmap" name="vg_erase_xpmmap">
+<area shape="rect" id="Node000001" title="Erases a xpm image in the specified coordinates." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="183,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,16,167,16,167,21,135,21"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="332,5,469,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,16,317,16,317,21,285,21"/>
+</map>

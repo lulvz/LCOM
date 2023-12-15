@@ -1,0 +1,12 @@
+digraph "mouse_int"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="mouse_int",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Handles the mouse interrupts. Appropriately handles the mouse interrupts depending on the gamestate."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="main_game_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc",tooltip="Function that handles the main game loop. This function handles the interrupts appropriately."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="proj_main_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66",tooltip=" "];
+}

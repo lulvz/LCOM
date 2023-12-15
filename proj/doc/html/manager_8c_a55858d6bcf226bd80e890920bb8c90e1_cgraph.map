@@ -1,0 +1,11 @@
+<map id="subscribe_ints" name="subscribe_ints">
+<area shape="rect" id="Node000001" title="Simultaniously subscribes to all interrupts." alt="" coords="5,81,111,108"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a8eee4d0a15beada731a514481b5ad4bf" title="Subscribes and enables keyboard interrupts." alt="" coords="159,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,78,158,42,175,35,177,40,160,46,85,83"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#a20285aed4b3ef45812cd967532dd09db" title="Subscribes and enables mouse interrupts." alt="" coords="166,56,310,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,85,151,79,151,84,111,90"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#a5171a9c0f54940fe60f7500896afcc86" title="Subscribes and enables RTC interrupts." alt="" coords="178,107,298,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,99,163,107,163,112,111,105"/>
+<area shape="rect" id="Node000005" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes and enables Timer 0 interrupts." alt="" coords="171,157,305,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="85,106,160,143,177,149,175,154,158,148,83,111"/>
+</map>

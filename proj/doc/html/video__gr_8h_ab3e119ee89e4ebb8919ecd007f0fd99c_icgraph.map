@@ -1,0 +1,9 @@
+<map id="vg_draw_animated_sprite" name="vg_draw_animated_sprite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,5,615,32"/>
+<area shape="rect" id="Node000002" href="$manager_8c.html#a9df05b246940004343097316105b03b0" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="329,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,21,401,21,401,16,434,16"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,5,281,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,21,281,21,281,16,314,16"/>
+<area shape="rect" id="Node000004" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

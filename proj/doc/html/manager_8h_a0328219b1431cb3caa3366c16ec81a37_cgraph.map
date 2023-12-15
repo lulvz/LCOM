@@ -1,0 +1,23 @@
+<map id="end_all" name="end_all">
+<area shape="rect" id="Node000001" title="Simultanioulsy destroys all the sprites, returns to text mode and calls unsubscribe_ints()." alt="" coords="5,107,68,133"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#aab1e65bf7a0c2a6519a7ba866319d7ed" title=" " alt="" coords="116,5,279,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,104,75,73,114,42,126,36,128,40,117,46,79,77,50,108"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#a9e585961da6c0a1dba413ed5d1ab840a" title="Destroys a given sprite." alt="" coords="146,56,249,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="67,108,115,92,137,85,138,90,116,97,69,113"/>
+<area shape="rect" id="Node000004" href="$keyboard_8c.html#aa20b45c2b4ae7e244c8995787f6361dc" title="Enables the keyboard." alt="" coords="154,107,241,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="68,117,139,117,139,123,68,123"/>
+<area shape="rect" id="Node000006" href="$manager_8c.html#a8841b2a95cc49b8aa5a91e798d35d002" title="Simultaniously unsubscribes to all interrupts." alt="" coords="138,157,257,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="69,127,116,143,138,150,137,155,115,148,67,132"/>
+<area shape="rect" id="Node000011" href="$video__gr_8c.html#a25701b058f9e9c3619e021d5512dd9ce" title="Returns to default Minix 3 text mode." alt="" coords="142,208,253,235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="50,132,79,163,117,194,129,200,127,205,114,198,75,167,46,136"/>
+<area shape="rect" id="Node000005" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="368,56,458,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,107,353,81,354,86,242,112"/>
+<area shape="rect" id="Node000007" href="$keyboard_8c.html#ac95aea27a5e91b363b876fed881f368f" title="Unsubscribes keyboard interrupts." alt="" coords="327,107,499,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="257,154,339,135,340,140,258,159"/>
+<area shape="rect" id="Node000008" href="$keyboard_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts." alt="" coords="334,157,492,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="257,168,319,168,319,173,257,173"/>
+<area shape="rect" id="Node000009" href="$rtc_8c.html#ab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC interrupts." alt="" coords="346,208,480,235"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="258,182,340,201,339,207,257,187"/>
+<area shape="rect" id="Node000010" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="339,259,487,285"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="257,182,280,194,296,207,305,220,314,232,328,244,339,250,336,255,326,249,310,236,301,223,292,210,278,198,254,187"/>
+</map>

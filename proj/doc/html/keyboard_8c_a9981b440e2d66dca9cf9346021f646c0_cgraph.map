@@ -1,0 +1,7 @@
+<map id="kbc_get_event" name="kbc_get_event">
+<area shape="rect" id="Node000001" title="Returns an event_t struct with the action and char corresponding to the scancode. The manager (superv..." alt="" coords="5,31,110,57"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a6b99b281d1b7e1a70f091892051bfcd2" title="Returns the upper_lower ascii char[2] corresponding to the scancode." alt="" coords="167,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,34,151,29,152,34,110,40"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#a99f607a98332ca129ca18571d52f5e89" title="Updates the modifier keys mask." alt="" coords="158,56,333,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,48,143,53,142,58,110,54"/>
+</map>

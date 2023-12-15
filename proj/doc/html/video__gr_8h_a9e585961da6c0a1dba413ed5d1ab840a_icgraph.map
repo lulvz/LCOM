@@ -1,0 +1,7 @@
+<map id="destroy_sprite" name="destroy_sprite">
+<area shape="rect" id="Node000001" title="Destroys a given sprite." alt="" coords="272,5,375,32"/>
+<area shape="rect" id="Node000002" href="$manager_8c.html#a0328219b1431cb3caa3366c16ec81a37" title="Simultanioulsy destroys all the sprites, returns to text mode and calls unsubscribe_ints()." alt="" coords="162,5,224,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,21,225,21,225,16,257,16"/>
+<area shape="rect" id="Node000003" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

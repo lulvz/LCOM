@@ -1,0 +1,27 @@
+var video__gr_8h =
+[
+    [ "sprite", "structsprite.html", "structsprite" ],
+    [ "animated_sprite", "structanimated__sprite.html", "structanimated__sprite" ],
+    [ "copy_mem", "video__gr_8h.html#aeba33040237d1771d575214a5b86ef86", null ],
+    [ "create_animated_sprite", "video__gr_8h.html#a459353a825ebbf5f4d0c3cdba03d4249", null ],
+    [ "create_sprite", "video__gr_8h.html#a20ccceb0d4cecbd20cef28aeed6c4f9c", null ],
+    [ "destroy_animated_sprite", "video__gr_8h.html#aab1e65bf7a0c2a6519a7ba866319d7ed", null ],
+    [ "destroy_sprite", "video__gr_8h.html#a9e585961da6c0a1dba413ed5d1ab840a", null ],
+    [ "get_bytes_per_pixel", "video__gr_8h.html#a89e5e15fb2c065221f58c6d883da6049", null ],
+    [ "get_color", "video__gr_8h.html#a05eff4722124d00aec59c65a617d76af", null ],
+    [ "get_h_res", "video__gr_8h.html#ac19350f0662b5c8fbb1a41e051411014", null ],
+    [ "get_v_res", "video__gr_8h.html#ab226d056720011120b05e68e5f4d4449", null ],
+    [ "vg_draw_animated_sprite", "video__gr_8h.html#ab3e119ee89e4ebb8919ecd007f0fd99c", null ],
+    [ "vg_draw_char", "video__gr_8h.html#af3d48301439b1a7536212794165a0917", null ],
+    [ "vg_draw_hline", "video__gr_8h.html#a5e5b25bd525250f61f40b9e9f212d5e6", null ],
+    [ "vg_draw_pattern", "video__gr_8h.html#af7be676c7f6db3e91ab5165ad52b7416", null ],
+    [ "vg_draw_pixel", "video__gr_8h.html#a08c498ffeb0a3962e3b7711b57397741", null ],
+    [ "vg_draw_rectangle", "video__gr_8h.html#a99d2da2559e11200c6b40c469e9977ec", null ],
+    [ "vg_draw_sprite", "video__gr_8h.html#a50ba338a74273d7a169b05c9b42cea4b", null ],
+    [ "vg_draw_string", "video__gr_8h.html#aa6f33847fa05e5123517fab111cc6114", null ],
+    [ "vg_draw_xpmmap", "video__gr_8h.html#a0c7306536a40695dd2aa3454ff3bf4e3", null ],
+    [ "vg_erase_sprite", "video__gr_8h.html#a30ef1aed10a8f8658647c78b8c5a8d0a", null ],
+    [ "vg_erase_xpmmap", "video__gr_8h.html#a09e625a4c3ae78891f4030a962597c4f", null ],
+    [ "vg_exit_custom", "video__gr_8h.html#aeb4b4afdf5acf427148342ccf69c0b95", null ],
+    [ "vg_init", "video__gr_8h.html#aa6c1ff5024cd4d15e476bce487584daa", null ]
+];

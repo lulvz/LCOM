@@ -1,0 +1,8 @@
+<map id="vg_erase_sprite" name="vg_erase_sprite">
+<area shape="rect" id="Node000001" title="Erases a sprite specified in the argument." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="314,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,16,299,16,299,21,117,21"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="165,31,266,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,25,151,31,150,36,117,30"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="266,34,299,29,299,34,267,39"/>
+</map>

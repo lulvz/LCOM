@@ -1,0 +1,18 @@
+digraph "game_handle_event"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="game_handle_event",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Handles game events."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="advance_word",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a87f7f186ce51c4572e1fcafdc224f50f",tooltip="Advances to the next word."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="end_game",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a4202fa5c5191c7e387d7570da6c8cd8c",tooltip="Ends the game. Generates the score and resets all the variables."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="generate_score",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a198f970ec5b1eaaa5ce6b03594645577",tooltip="Generates the player's final score. The final score is based on the number of correct words,..."];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="reset_score",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b",tooltip="Resets the score."];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="reset_all",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c",tooltip="Resets all the variables."];
+}

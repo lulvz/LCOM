@@ -1,0 +1,18 @@
+digraph "load_random_race"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="load_random_race",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Loads a random race to be played."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="get_num_races",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a9bbb4426718bb1fedb3a10cd3eef6cf4",tooltip="Gets the number of races available."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="load_race",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a22272268424886902c7f7ebd3b52896e",tooltip="Loads a race specified in the argument."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="generate_race",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#af13903f18320e511afa5b84a76c969b2",tooltip="Generates a race given a specific input file."];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="reset_all",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c",tooltip="Resets all the variables."];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="reset_score",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b",tooltip="Resets the score."];
+}

@@ -1,0 +1,7 @@
+<map id="is_rtc_binary" name="is_rtc_binary">
+<area shape="rect" id="Node000001" title="Checks if the RTC is in binary mode." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="149,5,260,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,16,134,16,134,21,101,21"/>
+<area shape="rect" id="Node000003" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="308,5,398,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,16,293,16,293,21,261,21"/>
+</map>

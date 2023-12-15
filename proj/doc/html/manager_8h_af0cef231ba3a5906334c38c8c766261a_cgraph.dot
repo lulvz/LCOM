@@ -1,0 +1,42 @@
+digraph "mouse_int"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mouse_int",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Handles the mouse interrupts. Appropriately handles the mouse interrupts depending on the gamestate."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="create_animated_sprite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#a459353a825ebbf5f4d0c3cdba03d4249",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="get_h_res",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014",tooltip="Getter for the horizontal resolution of the screen."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="get_v_res",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449",tooltip="Getter for the vertical resolution of the screen."];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="handle_click_game_over",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a4e32957d7b9ce98188d666da53907748",tooltip="Handles and sets the correct gamestate based on where the user clicked."];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="load_random_race",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a6a94956db57ececfa054e4094a0a9117",tooltip="Loads a random race to be played."];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="get_num_races",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a9bbb4426718bb1fedb3a10cd3eef6cf4",tooltip="Gets the number of races available."];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="load_race",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a22272268424886902c7f7ebd3b52896e",tooltip="Loads a race specified in the argument."];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="generate_race",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#af13903f18320e511afa5b84a76c969b2",tooltip="Generates a race given a specific input file."];
+  Node8 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="reset_all",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c",tooltip="Resets all the variables."];
+  Node8 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="reset_score",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b",tooltip="Resets the score."];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="handle_click_main_menu",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$menu_8c.html#aefaceb49f639f4b99e9cc93cf41faca4",tooltip="Handles a click in the main menu, swithing to the appropriate gamestate."];
+  Node12 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="mouse_stream_handler",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a0e6e9ac3494870bb3ed3652c47bd6809",tooltip="Checks if the mouse is moving."];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="build_packet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a46a48fef817ff28550a2a7ccbe7e7fb7",tooltip="Builds a packet from the bytes received from the mouse."];
+  Node13 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="mouse_ih",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a210374b50462acdedab00df64d5cea3c",tooltip="Mouse interrupt handler."];
+  Node15 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="check_output_buffer_full",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a870faa4e9a602e8cfc4fb83e72e16485",tooltip="Checks if the output buffer is full."];
+  Node16 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="util_sys_inb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4",tooltip=" "];
+  Node15 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

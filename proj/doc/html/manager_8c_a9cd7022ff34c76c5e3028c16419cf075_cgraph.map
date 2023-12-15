@@ -1,0 +1,13 @@
+<map id="draw_user_word" name="draw_user_word">
+<area shape="rect" id="Node000001" title="Draws a word in the screen." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a68b8e1b62b28a49abe41cd8d0afcfc20" title="Compares the current word being typed to the word in the sentence." alt="" coords="168,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,153,28,153,33,120,38"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#aa6f33847fa05e5123517fab111cc6114" title="Draws a string in the specified coordinates with the specified color." alt="" coords="178,56,285,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,50,164,57,163,62,120,55"/>
+<area shape="rect" id="Node000004" href="$video__gr_8c.html#af3d48301439b1a7536212794165a0917" title="Draws a character in the specified coordinates with the specified color." alt="" coords="343,56,442,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,67,328,67,328,72,285,72"/>
+<area shape="rect" id="Node000005" href="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="490,56,592,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="443,67,475,67,475,72,443,72"/>
+<area shape="rect" id="Node000006" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="640,56,777,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="592,67,625,67,625,72,592,72"/>
+</map>

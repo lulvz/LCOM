@@ -1,0 +1,56 @@
+<map id="keyboard_int" name="keyboard_int">
+<area shape="rect" id="Node000001" title="Handles the keyboard interrupts. Appropriately handles the keyboard interrupts depending on the games..." alt="" coords="5,259,101,285"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a5843afbcf136914b26b587089fa4430b" title="Handles game events." alt="" coords="164,56,299,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,256,207,92,211,95,68,260"/>
+<area shape="rect" id="Node000007" href="$gameover_8c.html#a89f3e108774a590e53e1df4c337c574e" title="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..." alt="" coords="149,233,314,260"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="101,263,133,258,134,263,101,268"/>
+<area shape="rect" id="Node000022" href="$keyboard_8c.html#a9981b440e2d66dca9cf9346021f646c0" title="Returns an event_t struct with the action and char corresponding to the scancode. The manager (superv..." alt="" coords="179,309,284,336"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="102,283,169,302,167,307,100,288"/>
+<area shape="rect" id="Node000025" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Keyboard interrupt handler." alt="" coords="202,385,261,412"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="72,284,150,346,195,375,192,380,147,350,69,288"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a87f7f186ce51c4572e1fcafdc224f50f" title="Advances to the next word." alt="" coords="399,5,501,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,53,383,31,384,36,293,58"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a4202fa5c5191c7e387d7570da6c8cd8c" title="Ends the game. Generates the score and resets all the variables." alt="" coords="409,56,490,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="299,67,394,67,394,72,299,72"/>
+<area shape="rect" id="Node000005" href="$gameover_8h.html#a536caf0369e5c496194b1e350ec4586b" title=" " alt="" coords="585,5,696,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,56,573,34,574,39,492,61"/>
+<area shape="rect" id="Node000006" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="763,68,834,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="491,68,748,77,748,82,491,73"/>
+<area shape="rect" id="Node000008" href="$rtc_8c.html#afd7ff357f4be067d04821bac4dc85cb5" title="Formats the date and time into a string." alt="" coords="387,259,513,285"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="315,254,372,260,371,266,314,259"/>
+<area shape="rect" id="Node000014" href="$game_8c.html#a6a94956db57ececfa054e4094a0a9117" title="Loads a random race to be played." alt="" coords="386,157,513,184"/>
+<area shape="poly" id="edge14_Node000007_Node000014" title=" " alt="" coords="265,230,361,193,384,186,385,191,363,199,267,235"/>
+<area shape="rect" id="Node000019" href="$gameover_8c.html#a92113222809175cc68c4e793eed082fd" title="Saves the highscore to the respective file (highscores.txt)." alt="" coords="395,208,505,235"/>
+<area shape="poly" id="edge20_Node000007_Node000019" title=" " alt="" coords="314,234,380,227,380,232,315,240"/>
+<area shape="rect" id="Node000009" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="594,309,687,336"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="504,283,580,304,579,309,502,289"/>
+<area shape="rect" id="Node000010" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="747,360,850,387"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="685,334,741,352,740,357,684,339"/>
+<area shape="rect" id="Node000011" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="744,259,853,285"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="684,306,740,288,741,293,685,311"/>
+<area shape="rect" id="Node000012" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="901,309,1012,336"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="687,320,886,320,886,325,687,325"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="843,283,900,302,898,307,842,289"/>
+<area shape="rect" id="Node000013" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="1060,360,1151,387"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="999,334,1051,352,1050,357,997,339"/>
+<area shape="rect" id="Node000015" href="$game_8c.html#a9bbb4426718bb1fedb3a10cd3eef6cf4" title="Gets the number of races available." alt="" coords="585,107,696,133"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="502,154,573,135,574,140,504,159"/>
+<area shape="rect" id="Node000016" href="$game_8c.html#a22272268424886902c7f7ebd3b52896e" title="Loads a race specified in the argument." alt="" coords="602,157,679,184"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="514,168,587,168,587,173,514,173"/>
+<area shape="poly" id="edge18_Node000016_Node000006" title=" " alt="" coords="672,154,694,143,764,101,766,105,697,148,674,159"/>
+<area shape="rect" id="Node000017" href="$game_8c.html#af13903f18320e511afa5b84a76c969b2" title="Generates a race given a specific input file." alt="" coords="747,195,850,221"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="680,177,733,190,732,195,679,182"/>
+<area shape="rect" id="Node000018" href="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b" title="Resets the score." alt="" coords="754,144,843,171"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="680,165,739,160,740,165,680,170"/>
+<area shape="rect" id="Node000020" href="$gameover_8c.html#ab3a31c34cd88be42e3f993561017589f" title="Checks if the user has a highscore already set." alt="" coords="588,208,693,235"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="505,219,573,219,573,224,505,224"/>
+<area shape="rect" id="Node000021" href="$gameover_8c.html#a01fa9110f3c58759b83ef92771eb967a" title="Sorts the highscores by wpm." alt="" coords="591,259,690,285"/>
+<area shape="poly" id="edge22_Node000019_Node000021" title=" " alt="" coords="504,233,578,253,576,258,502,238"/>
+<area shape="rect" id="Node000023" href="$keyboard_8c.html#a6b99b281d1b7e1a70f091892051bfcd2" title="Returns the upper_lower ascii char[2] corresponding to the scancode." alt="" coords="371,309,528,336"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="284,320,356,320,356,325,284,325"/>
+<area shape="rect" id="Node000024" href="$keyboard_8c.html#a99f607a98332ca129ca18571d52f5e89" title="Updates the modifier keys mask." alt="" coords="362,360,537,387"/>
+<area shape="poly" id="edge25_Node000022_Node000024" title=" " alt="" coords="284,332,376,353,374,359,283,337"/>
+<area shape="rect" id="Node000026" href="$keyboard_8c.html#ad1d620691edb0c4fff19faff6aabdbfe" title="Reads the status register of the keyboard, and checks if the output buffer is full." alt="" coords="904,385,1010,412"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="261,396,889,396,889,401,261,401"/>
+<area shape="poly" id="edge28_Node000026_Node000013" title=" " alt="" coords="1010,387,1045,381,1046,386,1011,392"/>
+</map>

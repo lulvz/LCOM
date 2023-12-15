@@ -1,0 +1,18 @@
+digraph "draw_user_word"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="draw_user_word",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Draws a word in the screen."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cmp_current_word",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$game_8c.html#a68b8e1b62b28a49abe41cd8d0afcfc20",tooltip="Compares the current word being typed to the word in the sentence."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="vg_draw_string",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#aa6f33847fa05e5123517fab111cc6114",tooltip="Draws a string in the specified coordinates with the specified color."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="vg_draw_char",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#af3d48301439b1a7536212794165a0917",tooltip="Draws a character in the specified coordinates with the specified color."];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="vg_draw_pixel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741",tooltip="Draws a pixel in the specified coordinates with the specified color."];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="get_bytes_per_pixel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049",tooltip="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...."];
+}

@@ -1,0 +1,69 @@
+<map id="timer_int" name="timer_int">
+<area shape="rect" id="Node000001" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="5,499,77,526"/>
+<area shape="rect" id="Node000002" href="$video__gr_8c.html#a5680205c46a42c8adb74d18eb7299508" title="Copies the contents of the video buffer to the video memory." alt="" coords="685,68,770,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,498,44,413,57,285,68,219,82,160,100,111,111,93,123,80,155,57,189,38,225,24,263,14,340,4,419,5,495,14,566,28,677,60,676,65,565,33,495,19,419,10,341,9,264,19,227,29,191,43,158,61,126,84,115,96,105,114,87,161,73,220,62,286,50,413,45,499"/>
+<area shape="rect" id="Node000004" href="$video__gr_8c.html#aab1e65bf7a0c2a6519a7ba866319d7ed" title=" " alt="" coords="126,94,290,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="41,498,49,424,66,317,90,210,105,167,123,137,135,126,139,130,127,141,110,169,95,211,71,318,55,425,46,499"/>
+<area shape="rect" id="Node000005" href="$manager_8c.html#a05b70e6e0957319c26d4c7c8109cb407" title="Draws an underline under the character that the user is currently typing." alt="" coords="154,246,262,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="41,498,46,457,59,399,83,337,101,308,123,282,139,271,142,275,126,286,105,311,88,339,64,400,51,458,46,499"/>
+<area shape="rect" id="Node000009" href="$manager_8c.html#a9cd7022ff34c76c5e3028c16419cf075" title="Draws a word in the screen." alt="" coords="151,448,265,475"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="76,499,147,477,149,482,78,504"/>
+<area shape="rect" id="Node000010" href="$video__gr_8c.html#aa6f33847fa05e5123517fab111cc6114" title="Draws a string in the specified coordinates with the specified color." alt="" coords="350,448,456,475"/>
+<area shape="poly" id="edge37_Node000001_Node000010" title=" " alt="" coords="46,526,52,603,66,714,77,771,90,823,107,864,126,890,168,916,188,922,207,924,227,922,247,915,289,890,312,863,331,819,349,765,363,704,384,582,396,489,401,490,390,582,368,705,354,766,336,821,316,865,293,894,250,920,228,927,208,929,187,927,166,921,123,894,102,867,85,825,71,772,61,715,46,603,40,526"/>
+<area shape="rect" id="Node000012" href="$gameover_8c.html#a461f5b82f988e883eb5dfeef5c6a400a" title="Gets the total number of characters typed correctly by the player." alt="" coords="130,296,286,323"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="42,498,50,465,65,420,89,374,105,352,123,333,128,329,131,333,126,337,109,355,94,376,70,422,55,466,47,499"/>
+<area shape="rect" id="Node000013" href="$gameover_8c.html#a6eb28851a496e6a73ad15538ae77a96b" title="Gets the final number of correct words typed by the player." alt="" coords="129,347,287,374"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="45,497,73,442,95,411,123,384,130,379,133,383,126,388,99,414,77,445,50,500"/>
+<area shape="rect" id="Node000014" href="$gameover_8c.html#a3a1b831ce1771a5aae4b6388854c7e97" title="Gets the final words per minute of the player." alt="" coords="156,398,260,424"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="52,497,82,465,123,434,141,425,143,430,126,439,86,469,56,500"/>
+<area shape="rect" id="Node000015" href="$rtc_8c.html#afd7ff357f4be067d04821bac4dc85cb5" title="Formats the date and time into a string." alt="" coords="145,955,271,982"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="46,526,53,609,68,731,92,853,108,902,127,935,138,945,135,949,123,938,103,904,87,855,63,732,48,609,41,526"/>
+<area shape="rect" id="Node000021" href="$game_8c.html#af82979d73ddd3b83d43763cdc77876c0" title="Gets the game counter." alt="" coords="144,499,272,526"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="77,510,129,510,129,515,77,515"/>
+<area shape="rect" id="Node000022" href="$gameover_8c.html#aaf9c51f26d335f448a9595fd5f77f59f" title="Returns the top 10 highscores." alt="" coords="134,550,282,576"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="78,520,149,542,147,547,76,526"/>
+<area shape="rect" id="Node000023" href="$gameover_8c.html#afe7317b366304ada231d64ef868aecb1" title="Gets the total number of characters typed by the player." alt="" coords="153,600,263,627"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="56,524,86,555,126,586,140,593,138,598,123,591,82,559,52,528"/>
+<area shape="rect" id="Node000024" href="$gameover_8c.html#a6114c599aec804eba4b64c9eb6f9e654" title="Gets the total number of words typed by the player." alt="" coords="152,651,264,678"/>
+<area shape="poly" id="edge27_Node000001_Node000024" title=" " alt="" coords="50,525,77,579,99,610,126,637,139,645,136,649,123,641,95,614,73,582,45,527"/>
+<area shape="rect" id="Node000025" href="$gameover_8c.html#a39fef26de49fd814ed415e3b49e3903b" title="Gets the user name." alt="" coords="153,702,263,728"/>
+<area shape="poly" id="edge28_Node000001_Node000025" title=" " alt="" coords="47,525,55,559,70,602,94,648,109,669,126,688,140,697,137,701,123,692,105,673,89,651,65,604,50,560,42,527"/>
+<area shape="rect" id="Node000026" href="$game_8c.html#acfeafc0df0af07be3759a58a0dddb53b" title="Increments the game counter." alt="" coords="128,752,288,779"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="46,525,51,567,64,624,88,685,105,714,127,738,131,742,127,746,123,742,101,717,83,688,59,626,46,568,41,526"/>
+<area shape="rect" id="Node000027" href="$gameover_8c.html#afc5fcaa16c284825f1bcd25b1aee253b" title="Checks if the score has been generated." alt="" coords="141,803,275,830"/>
+<area shape="poly" id="edge30_Node000001_Node000027" title=" " alt="" coords="45,526,47,575,58,646,68,684,82,722,102,758,127,789,130,792,126,796,123,793,97,761,77,725,63,686,52,647,42,576,39,526"/>
+<area shape="rect" id="Node000028" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="148,854,268,880"/>
+<area shape="poly" id="edge31_Node000001_Node000028" title=" " alt="" coords="47,526,56,592,73,687,97,779,111,816,127,840,136,848,133,852,123,843,106,818,92,781,68,688,51,593,41,526"/>
+<area shape="rect" id="Node000029" href="$video__gr_8c.html#ab3e119ee89e4ebb8919ecd007f0fd99c" title=" " alt="" coords="125,195,291,222"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="39,498,42,449,52,377,63,339,77,300,97,264,123,232,126,228,130,232,127,235,102,267,82,302,68,340,58,379,47,449,45,499"/>
+<area shape="rect" id="Node000030" href="$video__gr_8c.html#a50ba338a74273d7a169b05c9b42cea4b" title="Draws a sprite specified in the argument." alt="" coords="350,170,456,196"/>
+<area shape="poly" id="edge36_Node000001_Node000030" title=" " alt="" coords="41,498,49,430,64,334,88,240,104,204,123,181,149,165,177,154,207,149,237,147,296,151,348,162,347,168,295,157,237,152,207,154,178,160,151,170,126,185,109,207,94,242,69,335,54,431,46,499"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="831,144,968,171"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="761,93,855,135,853,140,759,98"/>
+<area shape="rect" id="Node000006" href="$game_8c.html#a68b8e1b62b28a49abe41cd8d0afcfc20" title="Compares the current word being typed to the word in the sentence." alt="" coords="339,347,466,374"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="263,270,292,282,337,308,375,335,372,340,334,312,290,287,261,275"/>
+<area shape="rect" id="Node000007" href="$video__gr_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line in the specified coordinates with the specified color." alt="" coords="518,246,620,272"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="262,256,504,256,504,262,262,262"/>
+<area shape="rect" id="Node000008" href="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="677,220,778,247"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="620,248,662,241,662,247,620,253"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="759,217,853,175,855,180,761,222"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="261,445,290,434,334,408,372,381,375,385,337,413,292,439,263,450"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="265,459,335,459,335,464,265,464"/>
+<area shape="rect" id="Node000011" href="$video__gr_8c.html#af3d48301439b1a7536212794165a0917" title="Draws a character in the specified coordinates with the specified color." alt="" coords="519,372,619,399"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="433,445,523,403,526,408,435,450"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="582,370,700,255,704,259,586,374"/>
+<area shape="rect" id="Node000016" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="357,955,449,982"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="272,966,342,966,342,971,272,971"/>
+<area shape="rect" id="Node000017" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="518,904,620,931"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="448,952,508,933,510,938,450,957"/>
+<area shape="rect" id="Node000018" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="514,955,624,982"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="449,966,499,966,499,971,449,971"/>
+<area shape="rect" id="Node000019" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="672,980,783,1007"/>
+<area shape="poly" id="edge23_Node000016_Node000019" title=" " alt="" coords="450,978,515,991,588,995,657,995,657,1000,588,1001,514,996,449,984"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="624,974,657,980,657,985,623,980"/>
+<area shape="rect" id="Node000020" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="855,980,945,1007"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="783,991,840,991,840,996,783,996"/>
+<area shape="poly" id="edge33_Node000029_Node000030" title=" " alt="" coords="291,195,334,189,335,194,292,200"/>
+<area shape="poly" id="edge34_Node000030_Node000003" title=" " alt="" coords="456,178,816,159,816,164,457,183"/>
+<area shape="poly" id="edge35_Node000030_Node000008" title=" " alt="" coords="457,189,662,221,662,226,456,194"/>
+</map>

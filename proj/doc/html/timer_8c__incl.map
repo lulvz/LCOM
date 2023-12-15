@@ -1,0 +1,12 @@
+<map id="labs/timer.c" name="labs/timer.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,5,164,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="84,155,161,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,35,50,48,24,64,9,84,8,94,13,105,24,120,38,132,71,150,68,154,35,136,20,123,8,108,3,95,5,82,21,60,48,43,78,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,80,116,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,34,88,69,84,66,109,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="139,80,204,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,31,156,66,152,69,127,34"/>
+<area shape="rect" id="Node000005" href="$i8254_8h.html" title=" " alt="" coords="228,80,291,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="145,30,223,70,221,75,143,35"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="237,110,160,150,158,145,234,105"/>
+</map>

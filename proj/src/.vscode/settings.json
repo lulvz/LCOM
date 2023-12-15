@@ -1,0 +1,27 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "utils.h": "c",
+    "i8042.h": "c",
+    "lcf.h": "c",
+    "video_gr.h": "c",
+    "timer.h": "c",
+    "proj.h": "c",
+    "*.xpm": "c",
+    "stdint.h": "c",
+    "alphabet.h": "c",
+    "stdbool.h": "c",
+    "*.race": "plaintext",
+    "keyboard.h": "c",
+    "gamestate.h": "c",
+    "time.h": "c",
+    "rtc.h": "c"
+  },
+}

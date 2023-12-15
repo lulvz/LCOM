@@ -1,0 +1,9 @@
+<map id="load_race" name="load_race">
+<area shape="rect" id="Node000001" title="Loads a race specified in the argument." alt="" coords="5,56,83,83"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#af13903f18320e511afa5b84a76c969b2" title="Generates a race given a specific input file." alt="" coords="131,5,234,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,53,129,35,131,40,84,58"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="147,56,218,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,67,132,67,132,72,83,72"/>
+<area shape="rect" id="Node000004" href="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b" title="Resets the score." alt="" coords="138,107,227,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,81,131,99,129,104,82,86"/>
+</map>

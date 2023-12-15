@@ -1,0 +1,33 @@
+<map id="rtc_read_output" name="rtc_read_output">
+<area shape="rect" id="Node000001" title="Reads the output of the RTC." alt="" coords="1161,81,1272,108"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a2c794c9d296283705c1e6397f4d08ca7" title="Checks if the RTC is in binary mode." alt="" coords="860,5,955,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1179,76,1147,60,1112,47,1030,30,955,23,956,17,1031,24,1113,41,1149,55,1182,71"/>
+<area shape="rect" id="Node000006" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="1003,56,1113,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1145,86,1113,81,1114,75,1146,81"/>
+<area shape="rect" id="Node000007" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="862,81,954,108"/>
+<area shape="poly" id="edge18_Node000001_Node000007" title=" " alt="" coords="1146,97,954,97,954,92,1146,92"/>
+<area shape="rect" id="Node000013" href="$rtc_8c.html#a57f7116af216e3779ad9d6e98351d329" title="RTC interrupt handler. Reads the output of register C and updates the time if the interrupt was gener..." alt="" coords="722,157,776,184"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="1147,109,776,169,775,164,1146,103"/>
+<area shape="rect" id="Node000003" href="$rtc_8c.html#a28fec729790b3a38760bd204285eb444" title="Initializes the rtc, either in binary or BCD mode." alt="" coords="704,5,794,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="845,21,794,21,794,16,845,16"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#a832d39f5c041bf59c16063e0c4bf210b" title="Simultaniously intializes all the sprites, video card, RTC (real&#45;time clock) and calls subscribe_ints..." alt="" coords="348,5,406,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,21,406,21,406,16,689,16"/>
+<area shape="rect" id="Node000005" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,56,114,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,28,114,63,113,58,332,23"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="989,84,955,90,954,84,988,78"/>
+<area shape="poly" id="edge14_Node000007_Node000003" title=" " alt="" coords="863,77,777,35,780,30,866,72"/>
+<area shape="rect" id="Node000008" href="$rtc_8c.html#afd7ff357f4be067d04821bac4dc85cb5" title="Formats the date and time into a string." alt="" coords="686,81,812,108"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="847,97,813,97,813,92,847,92"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="866,117,777,160,775,156,863,113"/>
+<area shape="rect" id="Node000009" href="$gameover_8c.html#a89f3e108774a590e53e1df4c337c574e" title="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..." alt="" coords="472,56,638,83"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="671,87,638,83,639,78,671,82"/>
+<area shape="rect" id="Node000012" href="$manager_8c.html#a9df05b246940004343097316105b03b0" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="519,107,591,133"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="671,107,591,118,590,113,671,102"/>
+<area shape="rect" id="Node000010" href="$manager_8c.html#a55af6cf6aec4f5833321668f1d9e2527" title="Handles the keyboard interrupts. Appropriately handles the keyboard interrupts depending on the games..." alt="" coords="329,56,424,83"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="458,72,425,72,425,67,458,67"/>
+<area shape="rect" id="Node000011" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,81,281,108"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="315,82,282,88,281,82,314,77"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="146,86,114,80,115,75,147,80"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="504,119,281,102,282,97,504,114"/>
+<area shape="poly" id="edge16_Node000013_Node000011" title=" " alt="" coords="707,171,600,163,472,148,371,130,281,111,282,106,372,125,473,143,601,157,707,166"/>
+</map>

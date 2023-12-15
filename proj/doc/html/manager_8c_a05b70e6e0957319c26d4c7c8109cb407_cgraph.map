@@ -1,0 +1,11 @@
+<map id="draw_underline" name="draw_underline">
+<area shape="rect" id="Node000001" title="Draws an underline under the character that the user is currently typing." alt="" coords="5,31,113,57"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a68b8e1b62b28a49abe41cd8d0afcfc20" title="Compares the current word being typed to the word in the sentence." alt="" coords="161,5,288,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,33,145,28,146,33,114,38"/>
+<area shape="rect" id="Node000003" href="$video__gr_8c.html#a5e5b25bd525250f61f40b9e9f212d5e6" title="Draws a horizontal line in the specified coordinates with the specified color." alt="" coords="174,56,275,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,50,159,57,159,62,113,55"/>
+<area shape="rect" id="Node000004" href="$video__gr_8c.html#a08c498ffeb0a3962e3b7711b57397741" title="Draws a pixel in the specified coordinates with the specified color." alt="" coords="336,56,437,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="275,67,321,67,321,72,275,72"/>
+<area shape="rect" id="Node000005" href="$video__gr_8c.html#a89e5e15fb2c065221f58c6d883da6049" title="Calculates the number of bytes per pixel of the current mode, given the bits per pixel...." alt="" coords="485,56,623,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,67,470,67,470,72,438,72"/>
+</map>

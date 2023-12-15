@@ -1,0 +1,12 @@
+<map id="vg_draw_string" name="vg_draw_string">
+<area shape="rect" id="Node000001" title="Draws a string in the specified coordinates with the specified color." alt="" coords="611,31,717,57"/>
+<area shape="rect" id="Node000002" href="$manager_8c.html#a9cd7022ff34c76c5e3028c16419cf075" title="Draws a word in the screen." alt="" coords="448,5,563,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,36,563,30,563,25,596,31"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a9df05b246940004343097316105b03b0" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="329,31,400,57"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="596,47,401,47,401,41,596,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,34,401,40,400,35,433,29"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,31,281,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="314,47,281,47,281,41,314,41"/>
+<area shape="rect" id="Node000005" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,47,114,47,114,41,147,41"/>
+</map>

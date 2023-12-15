@@ -1,0 +1,5 @@
+*.o
+core*
+proj
+output.txt
+trace.txt

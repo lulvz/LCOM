@@ -1,0 +1,11 @@
+<map id="game_handle_event" name="game_handle_event">
+<area shape="rect" id="Node000001" title="Handles game events." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a87f7f186ce51c4572e1fcafdc224f50f" title="Advances to the next word." alt="" coords="189,5,291,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,31,174,26,174,31,142,36"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a4202fa5c5191c7e387d7570da6c8cd8c" title="Ends the game. Generates the score and resets all the variables." alt="" coords="199,56,281,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,52,185,58,184,64,141,57"/>
+<area shape="rect" id="Node000004" href="$gameover_8h.html#a536caf0369e5c496194b1e350ec4586b" title=" " alt="" coords="339,31,449,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,60,324,53,325,58,281,65"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="359,81,429,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="281,73,345,84,344,89,281,79"/>
+</map>

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['save_5fhighscore_214',['save_highscore',['../gameover_8c.html#a92113222809175cc68c4e793eed082fd',1,'gameover.c']]],
+  ['scancode_5fdouble_215',['SCANCODE_DOUBLE',['../i8042_8h.html#a4d9b9f1ea899a958e7c1d50a5e3694e5',1,'i8042.h']]],
+  ['scancode_5fmouse_216',['scancode_mouse',['../keyboard_8c.html#a8d862bd4157e165623c5d64808874cdf',1,'keyboard.c']]],
+  ['seconds_217',['seconds',['../structreal__time__info.html#a508e97fcf1bfdcb43c196ce70ae910d5',1,'real_time_info']]],
+  ['seconds_218',['SECONDS',['../rtc_8h.html#a48fcf4f2eeef6769d588168d4ac2ab0e',1,'rtc.h']]],
+  ['set1_219',['set1',['../structkeycode__lu__t.html#ace707d176f2c7f17b6b2044f45639a9e',1,'keycode_lu_t']]],
+  ['set2_220',['set2',['../structkeycode__lu__t.html#a9bc354b3e45243012bd924d55a0edb22',1,'keycode_lu_t']]],
+  ['set3_221',['set3',['../structkeycode__lu__t.html#a446b784757b13488899f68674f575f6b',1,'keycode_lu_t']]],
+  ['shift_222',['SHIFT',['../keyboard_8h.html#ae259fa444d667035e84470eae3b8ce6fa1ce4ab037343ee04fbf20ceb2ebc5081',1,'keyboard.h']]],
+  ['single_223',['SINGLE',['../gamestate_8h.html#aa3df7fce134ae5843a2bd6cdcd5796d0a3388f7110f6f25a54e215eb75d5d7516',1,'gamestate.h']]],
+  ['sort_5fby_5fwpm_224',['sort_by_wpm',['../gameover_8c.html#a01fa9110f3c58759b83ef92771eb967a',1,'gameover.c']]],
+  ['space_225',['SPACE',['../keyboard_8h.html#af806efc6052edbc741683ec893bb2fe1ac08dae7edcb5c5bb959fee5971fbad95',1,'keyboard.h']]],
+  ['speaker_5fctrl_226',['SPEAKER_CTRL',['../group__i8254.html#ga51b3a5e3d4811ca063fe25e35560ab40',1,'i8254.h']]],
+  ['special_5fkeys_227',['special_keys',['../keyboard_8h.html#ae259fa444d667035e84470eae3b8ce6f',1,'keyboard.h']]],
+  ['sprite_228',['sprite',['../structsprite.html',1,'']]],
+  ['sprites_229',['sprites',['../structanimated__sprite.html#a2a5a50493b8d894b6a84cb0d5fced824',1,'animated_sprite']]],
+  ['start_5fbutton_230',['start_button',['../manager_8c.html#aaf91e89a068c8239c01a345e17fef507',1,'manager.c']]],
+  ['subscribe_5fints_231',['subscribe_ints',['../manager_8c.html#a55858d6bcf226bd80e890920bb8c90e1',1,'subscribe_ints(void):&#160;manager.c'],['../manager_8h.html#a55858d6bcf226bd80e890920bb8c90e1',1,'subscribe_ints(void):&#160;manager.c']]],
+  ['sx_232',['sx',['../structsprite.html#a2eabc3288f5d080618edb5ea5c99c7a9',1,'sprite']]],
+  ['sy_233',['sy',['../structsprite.html#a936c3129a4e38115d581ce86fbc3ee0b',1,'sprite']]]
+];

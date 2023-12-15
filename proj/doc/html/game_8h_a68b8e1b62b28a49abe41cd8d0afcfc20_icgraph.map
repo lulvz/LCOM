@@ -1,0 +1,14 @@
+<map id="cmp_current_word" name="cmp_current_word">
+<area shape="rect" id="Node000001" title="Compares the current word being typed to the word in the sentence." alt="" coords="611,31,738,57"/>
+<area shape="rect" id="Node000002" href="$manager_8c.html#a05b70e6e0957319c26d4c7c8109cb407" title="Draws an underline under the character that the user is currently typing." alt="" coords="452,5,559,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="595,35,559,29,560,24,596,30"/>
+<area shape="rect" id="Node000006" href="$manager_8c.html#a9cd7022ff34c76c5e3028c16419cf075" title="Draws a word in the screen." alt="" coords="448,56,563,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="596,58,564,63,563,58,595,53"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a9df05b246940004343097316105b03b0" title="Timer interrupt handler. This function defines how timer interrupts are handled, depending on the cur..." alt="" coords="329,31,400,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,34,401,40,400,35,437,28"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,31,281,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="314,47,281,47,281,41,314,41"/>
+<area shape="rect" id="Node000005" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,47,114,47,114,41,147,41"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="433,59,400,53,401,48,434,54"/>
+</map>

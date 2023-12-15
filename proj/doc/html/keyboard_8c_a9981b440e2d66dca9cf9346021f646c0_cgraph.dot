@@ -1,0 +1,12 @@
+digraph "kbc_get_event"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="kbc_get_event",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Returns an event_t struct with the action and char corresponding to the scancode. The manager (superv..."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="kbc_scancode_to_ascii",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a7518060c5b792ffc0f9f91cbee666aad",tooltip="Returns the upper_lower ascii char[2] corresponding to the scancode."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="kbc_update_modifier_keys",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a99f607a98332ca129ca18571d52f5e89",tooltip="Updates the modifier keys mask."];
+}

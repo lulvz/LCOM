@@ -1,0 +1,7 @@
+<map id="save_highscore" name="save_highscore">
+<area shape="rect" id="Node000001" title="Saves the highscore to the respective file (highscores.txt)." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="Node000002" href="$gameover_8c.html#ab3a31c34cd88be42e3f993561017589f" title="Checks if the user has a highscore already set." alt="" coords="164,5,269,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,32,149,27,150,32,117,38"/>
+<area shape="rect" id="Node000003" href="$gameover_8c.html#a01fa9110f3c58759b83ef92771eb967a" title="Sorts the highscores by wpm." alt="" coords="167,56,266,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,50,153,56,152,62,116,56"/>
+</map>

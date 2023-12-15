@@ -1,0 +1,9 @@
+<map id="is_rtc_binary" name="is_rtc_binary">
+<area shape="rect" id="Node000001" title="Checks if the RTC is in binary mode." alt="" coords="406,5,502,32"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a28fec729790b3a38760bd204285eb444" title="Initializes the rtc, either in binary or BCD mode." alt="" coords="268,5,358,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,21,359,21,359,16,391,16"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a832d39f5c041bf59c16063e0c4bf210b" title="Simultaniously intializes all the sprites, video card, RTC (real&#45;time clock) and calls subscribe_ints..." alt="" coords="162,5,220,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,21,221,21,221,16,253,16"/>
+<area shape="rect" id="Node000004" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

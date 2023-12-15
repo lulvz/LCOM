@@ -1,0 +1,7 @@
+<map id="end_game" name="end_game">
+<area shape="rect" id="Node000001" title="Ends the game. Generates the score and resets all the variables." alt="" coords="5,31,87,57"/>
+<area shape="rect" id="Node000002" href="$gameover_8h.html#a536caf0369e5c496194b1e350ec4586b" title=" " alt="" coords="135,5,245,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,34,120,28,121,34,88,40"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="155,56,225,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,48,141,58,140,63,87,54"/>
+</map>

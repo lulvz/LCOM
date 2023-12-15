@@ -1,0 +1,15 @@
+<map id="handle_click_main_menu" name="handle_click_main_menu">
+<area shape="rect" id="Node000001" title="Handles a click in the main menu, swithing to the appropriate gamestate." alt="" coords="5,31,173,57"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a6a94956db57ececfa054e4094a0a9117" title="Loads a random race to be played." alt="" coords="221,31,348,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,41,206,41,206,47,173,47"/>
+<area shape="rect" id="Node000003" href="$game_8c.html#a9bbb4426718bb1fedb3a10cd3eef6cf4" title="Gets the number of races available." alt="" coords="396,5,506,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,32,381,27,382,32,349,37"/>
+<area shape="rect" id="Node000004" href="$game_8c.html#a22272268424886902c7f7ebd3b52896e" title="Loads a race specified in the argument." alt="" coords="413,56,490,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,51,398,59,397,64,348,56"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#af13903f18320e511afa5b84a76c969b2" title="Generates a race given a specific input file." alt="" coords="554,5,658,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="489,54,548,35,550,40,491,59"/>
+<area shape="rect" id="Node000006" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="571,56,641,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="490,67,556,67,556,72,490,72"/>
+<area shape="rect" id="Node000007" href="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b" title="Resets the score." alt="" coords="561,107,651,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="491,79,550,99,548,104,489,84"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="Node000001" title="Reads the input timer configuration via read&#45;back command." alt="" coords="454,5,561,32"/>
+<area shape="rect" id="Node000002" href="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7" title="Changes the operating frequency of a timer." alt="" coords="268,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,21,407,21,407,16,440,16"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a832d39f5c041bf59c16063e0c4bf210b" title="Simultaniously intializes all the sprites, video card, RTC (real&#45;time clock) and calls subscribe_ints..." alt="" coords="162,5,220,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,21,220,21,220,16,253,16"/>
+<area shape="rect" id="Node000004" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

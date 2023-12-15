@@ -1,0 +1,34 @@
+<map id="game_over_handle_event" name="game_over_handle_event">
+<area shape="rect" id="Node000001" title="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..." alt="" coords="5,157,171,184"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#afd7ff357f4be067d04821bac4dc85cb5" title="Formats the date and time into a string." alt="" coords="219,95,346,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,154,224,124,226,129,133,159"/>
+<area shape="rect" id="Node000008" href="$game_8c.html#a6a94956db57ececfa054e4094a0a9117" title="Loads a random race to be played." alt="" coords="219,157,346,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="171,168,204,168,204,173,171,173"/>
+<area shape="rect" id="Node000014" href="$gameover_8c.html#a92113222809175cc68c4e793eed082fd" title="Saves the highscore to the respective file (highscores.txt)." alt="" coords="227,233,338,260"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="125,182,234,225,232,230,124,187"/>
+<area shape="rect" id="Node000003" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="403,69,495,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,96,388,89,389,94,346,101"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="556,5,658,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="483,66,558,36,560,41,485,71"/>
+<area shape="rect" id="Node000005" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="552,56,662,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="496,76,537,73,538,78,496,81"/>
+<area shape="rect" id="Node000006" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="710,81,821,108"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="496,86,552,92,695,94,694,99,552,97,495,92"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="662,75,695,81,695,86,661,81"/>
+<area shape="rect" id="Node000007" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="869,81,959,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="822,92,854,92,854,97,822,97"/>
+<area shape="rect" id="Node000009" href="$game_8c.html#a9bbb4426718bb1fedb3a10cd3eef6cf4" title="Gets the number of races available." alt="" coords="394,132,504,159"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="346,158,379,153,380,159,347,164"/>
+<area shape="rect" id="Node000010" href="$game_8c.html#a22272268424886902c7f7ebd3b52896e" title="Loads a race specified in the argument." alt="" coords="411,183,488,209"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="347,178,396,185,395,191,346,183"/>
+<area shape="rect" id="Node000011" href="$game_8c.html#af13903f18320e511afa5b84a76c969b2" title="Generates a race given a specific input file." alt="" coords="555,157,659,184"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="488,187,541,179,542,184,489,192"/>
+<area shape="rect" id="Node000012" href="$game_8c.html#a265da85056f5eee8bcc6ade9b333480c" title="Resets all the variables." alt="" coords="572,208,642,235"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="489,200,558,211,557,216,488,205"/>
+<area shape="rect" id="Node000013" href="$gameover_8c.html#aaf42193539144c0966542d7da8965c7b" title="Resets the score." alt="" coords="562,259,652,285"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="482,208,506,219,554,244,564,249,561,254,551,249,503,224,480,212"/>
+<area shape="rect" id="Node000015" href="$gameover_8c.html#ab3a31c34cd88be42e3f993561017589f" title="Checks if the user has a highscore already set." alt="" coords="397,233,502,260"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="338,244,382,244,382,249,338,249"/>
+<area shape="rect" id="Node000016" href="$gameover_8c.html#a01fa9110f3c58759b83ef92771eb967a" title="Sorts the highscores by wpm." alt="" coords="400,284,498,311"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="330,258,390,277,388,282,328,263"/>
+</map>

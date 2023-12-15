@@ -1,0 +1,18 @@
+digraph "sort_by_wpm"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="sort_by_wpm",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Sorts the highscores by wpm."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="save_highscore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a92113222809175cc68c4e793eed082fd",tooltip="Saves the highscore to the respective file (highscores.txt)."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="game_over_handle_event",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a89f3e108774a590e53e1df4c337c574e",tooltip="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="keyboard_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#a55af6cf6aec4f5833321668f1d9e2527",tooltip="Handles the keyboard interrupts. Appropriately handles the keyboard interrupts depending on the games..."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="main_game_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc",tooltip="Function that handles the main game loop. This function handles the interrupts appropriately."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="proj_main_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66",tooltip=" "];
+}

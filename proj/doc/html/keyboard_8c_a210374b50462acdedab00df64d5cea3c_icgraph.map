@@ -1,0 +1,11 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="Node000001" title="Mouse interrupt handler." alt="" coords="663,5,740,32"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a0e6e9ac3494870bb3ed3652c47bd6809" title="Checks if the mouse is moving." alt="" coords="458,5,615,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,21,615,21,615,16,648,16"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#ae4c896cac6d43efb2e8384558e2a8389" title="Handles the mouse interrupts. Appropriately handles the mouse interrupts depending on the gamestate." alt="" coords="329,5,410,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,21,411,21,411,16,443,16"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,5,281,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="314,21,282,21,282,16,314,16"/>
+<area shape="rect" id="Node000005" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="labs/keyboard.h" name="labs/keyboard.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,5,141,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,70,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,34,56,69,51,66,74,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,80,171,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,31,118,66,114,69,90,34"/>
+</map>

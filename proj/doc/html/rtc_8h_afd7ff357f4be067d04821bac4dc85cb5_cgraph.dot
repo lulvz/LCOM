@@ -1,0 +1,19 @@
+digraph "get_full_date_time"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="get_full_date_time",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Formats the date and time into a string, showing the full date and time."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="update_time",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#aba1881e31984e15eee882c2de63db817",tooltip="Updates de RTC with the current time. The time_info struct is updated with the current time."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="bcd_to_binary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb",tooltip="Converts a BCD number to binary."];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="is_rtc_updating",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f",tooltip="Checks if the RTC is updating."];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="rtc_read_output",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929",tooltip="Reads the output of the RTC."];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="util_sys_inb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4",tooltip=" "];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

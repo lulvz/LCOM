@@ -1,0 +1,17 @@
+<map id="initialize_rtc" name="initialize_rtc">
+<area shape="rect" id="Node000001" title="Initializes the rtc, either in binary or BCD mode." alt="" coords="5,43,96,69"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a2c794c9d296283705c1e6397f4d08ca7" title="Checks if the RTC is in binary mode." alt="" coords="144,5,239,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,41,129,32,130,38,97,47"/>
+<area shape="rect" id="Node000005" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="145,68,238,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="97,62,131,68,130,73,96,67"/>
+<area shape="rect" id="Node000003" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="444,43,556,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,22,430,45,430,50,239,27"/>
+<area shape="rect" id="Node000004" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="604,43,694,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="556,53,589,53,589,59,556,59"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="238,75,429,59,430,64,238,80"/>
+<area shape="rect" id="Node000006" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="291,93,393,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="238,86,276,93,276,98,237,92"/>
+<area shape="rect" id="Node000007" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="287,144,396,171"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="219,93,288,130,298,135,296,139,286,134,216,98"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="373,141,395,130,469,77,472,81,398,134,376,146"/>
+</map>

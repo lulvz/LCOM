@@ -1,0 +1,21 @@
+<map id="get_num_races" name="get_num_races">
+<area shape="rect" id="Node000001" title="Gets the number of races available." alt="" coords="863,56,973,83"/>
+<area shape="rect" id="Node000002" href="$game_8c.html#a6a94956db57ececfa054e4094a0a9117" title="Loads a random race to be played." alt="" coords="688,56,815,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="848,72,815,72,815,67,848,67"/>
+<area shape="rect" id="Node000003" href="$gameover_8c.html#a89f3e108774a590e53e1df4c337c574e" title="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..." alt="" coords="473,5,639,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="682,54,610,35,611,30,684,49"/>
+<area shape="rect" id="Node000007" href="$gameover_8c.html#a4e32957d7b9ce98188d666da53907748" title="Handles and sets the correct gamestate based on where the user clicked." alt="" coords="475,56,637,83"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="673,72,637,72,637,67,673,67"/>
+<area shape="rect" id="Node000009" href="$menu_8c.html#aefaceb49f639f4b99e9cc93cf41faca4" title="Handles a click in the main menu, swithing to the appropriate gamestate." alt="" coords="472,107,640,133"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="684,90,611,109,610,103,682,84"/>
+<area shape="rect" id="Node000004" href="$manager_8c.html#a55af6cf6aec4f5833321668f1d9e2527" title="Handles the keyboard interrupts. Appropriately handles the keyboard interrupts depending on the games..." alt="" coords="329,5,424,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,21,425,21,425,16,459,16"/>
+<area shape="rect" id="Node000005" href="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc" title="Function that handles the main game loop. This function handles the interrupts appropriately." alt="" coords="162,31,281,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="315,31,282,37,281,32,314,26"/>
+<area shape="rect" id="Node000006" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,47,114,47,114,41,147,41"/>
+<area shape="rect" id="Node000008" href="$manager_8c.html#ae4c896cac6d43efb2e8384558e2a8389" title="Handles the mouse interrupts. Appropriately handles the mouse interrupts depending on the gamestate." alt="" coords="336,56,417,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="460,72,418,72,418,67,460,67"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="321,63,281,56,282,51,322,58"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="491,105,417,83,418,78,493,100"/>
+</map>

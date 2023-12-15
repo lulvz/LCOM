@@ -1,0 +1,30 @@
+digraph "is_rtc_updating"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="is_rtc_updating",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Checks if the RTC is updating."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="update_time",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#aba1881e31984e15eee882c2de63db817",tooltip="Updates de RTC with the current time. The time_info struct is updated with the current time."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="get_full_date_time",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#afd7ff357f4be067d04821bac4dc85cb5",tooltip="Formats the date and time into a string, showing the full date and time."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="game_over_handle_event",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a89f3e108774a590e53e1df4c337c574e",tooltip="Handles the events for the game over screen. Handles the inputs for when the user is saving their hig..."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="keyboard_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#a55af6cf6aec4f5833321668f1d9e2527",tooltip="Handles the keyboard interrupts. Appropriately handles the keyboard interrupts depending on the games..."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="main_game_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#abfa3e0325d0e3c711d629d90574a80fc",tooltip="Function that handles the main game loop. This function handles the interrupts appropriately."];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="proj_main_loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66",tooltip=" "];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="get_time_until_minutes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#ad15ab192efbf6527f5a75f250bc58982",tooltip="Formats the date and time into a string, showing the date and time until the minutes."];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="initialize_rtc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a28fec729790b3a38760bd204285eb444",tooltip="Initializes the rtc, either in binary or BCD mode."];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="init_all",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#a832d39f5c041bf59c16063e0c4bf210b",tooltip="Simultaniously intializes all the sprites, video card, RTC (real-time clock) and calls subscribe_ints..."];
+  Node10 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="rtc_ih",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a57f7116af216e3779ad9d6e98351d329",tooltip="RTC interrupt handler. Reads the output of register C and updates the time if the interrupt was gener..."];
+  Node11 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

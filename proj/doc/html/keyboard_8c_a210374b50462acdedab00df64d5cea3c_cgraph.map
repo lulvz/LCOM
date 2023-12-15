@@ -1,0 +1,8 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="Node000001" title="Mouse interrupt handler." alt="" coords="5,31,83,57"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a870faa4e9a602e8cfc4fb83e72e16485" title="Checks if the output buffer is full." alt="" coords="131,5,291,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,36,116,30,117,36,83,41"/>
+<area shape="rect" id="Node000003" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="339,31,429,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="83,41,324,41,324,47,83,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,28,325,33,324,38,291,33"/>
+</map>

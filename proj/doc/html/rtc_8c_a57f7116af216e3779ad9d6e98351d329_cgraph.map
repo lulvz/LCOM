@@ -1,0 +1,15 @@
+<map id="rtc_ih" name="rtc_ih">
+<area shape="rect" id="Node000001" title="RTC interrupt handler. Reads the output of register C and updates the time if the interrupt was gener..." alt="" coords="5,5,59,32"/>
+<area shape="rect" id="Node000002" href="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929" title="Reads the output of the RTC." alt="" coords="404,5,516,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,15,187,11,356,11,390,12,389,17,356,16,187,16,59,20"/>
+<area shape="rect" id="Node000004" href="$rtc_8c.html#aba1881e31984e15eee882c2de63db817" title="Updates de RTC with the current time. The time_info struct is updated with the current time." alt="" coords="107,31,199,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,22,93,29,92,34,58,27"/>
+<area shape="rect" id="Node000003" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="564,5,654,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,16,549,16,549,21,516,21"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="199,38,389,22,390,27,199,43"/>
+<area shape="rect" id="Node000005" href="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb" title="Converts a BCD number to binary." alt="" coords="251,56,353,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,49,237,56,236,61,199,55"/>
+<area shape="rect" id="Node000006" href="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f" title="Checks if the RTC is updating." alt="" coords="247,107,356,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="180,56,248,92,258,97,256,102,246,97,178,60"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="333,104,355,92,429,40,432,44,358,97,336,109"/>
+</map>

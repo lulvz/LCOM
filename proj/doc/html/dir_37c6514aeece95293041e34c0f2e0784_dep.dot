@@ -1,0 +1,9 @@
+digraph "game" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_37c6514aeece95293041e34c0f2e0784 [shape=box, label="game", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_37c6514aeece95293041e34c0f2e0784.html"];
+  dir_bebd83aaf8d4023a6199a571c3b06b14 [shape=box label="labs" URL="dir_bebd83aaf8d4023a6199a571c3b06b14.html"];
+  dir_37c6514aeece95293041e34c0f2e0784->dir_bebd83aaf8d4023a6199a571c3b06b14 [headlabel="2", labeldistance=1.5 headhref="dir_000000_000001.html"];
+  dir_bebd83aaf8d4023a6199a571c3b06b14->dir_37c6514aeece95293041e34c0f2e0784 [headlabel="4", labeldistance=1.5 headhref="dir_000001_000000.html"];
+}

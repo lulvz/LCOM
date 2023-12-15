@@ -1,0 +1,56 @@
+digraph "init_all"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="init_all",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Simultaniously intializes all the sprites, video card, RTC (real-time clock) and calls subscribe_ints..."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="create_sprite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#a20ccceb0d4cecbd20cef28aeed6c4f9c",tooltip="Builds a sprite from a given xpm. The image is loaded in 32 bit color mode."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="get_button_positions\l_game_over",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gameover_8c.html#a2c2b4fb4d341c2a1e70093067fa1674f",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="get_button_positions_menu",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$menu_8c.html#a6ac9117a3fdb8f422adf8334c7c8776b",tooltip="Gets the positions of the buttons in the main menu."];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="initialize_rtc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a28fec729790b3a38760bd204285eb444",tooltip="Initializes the rtc, either in binary or BCD mode."];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="is_rtc_binary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a2c794c9d296283705c1e6397f4d08ca7",tooltip="Checks if the RTC is in binary mode."];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="rtc_read_output",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a3e32c0dba9d7ff02d8181a59b6531929",tooltip="Reads the output of the RTC."];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="util_sys_inb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4",tooltip=" "];
+  Node5 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="update_time",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#aba1881e31984e15eee882c2de63db817",tooltip="Updates de RTC with the current time. The time_info struct is updated with the current time."];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="bcd_to_binary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#ac0ff03e92507402be4d3a2b2416a86cb",tooltip="Converts a BCD number to binary."];
+  Node9 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="is_rtc_updating",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#af094cb0c2bdfce604764ad8fe8764d6f",tooltip="Checks if the RTC is updating."];
+  Node11 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="mouse_enable_data_reporting\l_custom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a3c4e368c416224abdef4276beb3ef7e4",tooltip="Enables mouse data reporting."];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="mouse_write_cmd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a91645500b25625f9eb6cf975453ebce7",tooltip="Writes a command to the mouse."];
+  Node13 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="subscribe_ints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$manager_8c.html#a55858d6bcf226bd80e890920bb8c90e1",tooltip="Simultaniously subscribes to all interrupts."];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="keyboard_subscribe_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a8eee4d0a15beada731a514481b5ad4bf",tooltip="Subscribes and enables keyboard interrupts."];
+  Node14 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="mouse_subscribe_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$keyboard_8c.html#a20285aed4b3ef45812cd967532dd09db",tooltip="Subscribes and enables mouse interrupts."];
+  Node14 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="rtc_subscribe_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$rtc_8c.html#a5171a9c0f54940fe60f7500896afcc86",tooltip="Subscribes and enables RTC interrupts."];
+  Node14 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="timer_subscribe_int",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b",tooltip="Subscribes and enables Timer 0 interrupts."];
+  Node1 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="timer_set_frequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$timer_8c.html#af2c04fa8e97ffa748fd3f612886a92a7",tooltip="Changes the operating frequency of a timer."];
+  Node19 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="timer_get_conf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$timer_8c.html#a703c60b40c8c49607d6ecb6fef82d27a",tooltip="Reads the input timer configuration via read-back command."];
+  Node20 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="util_get_LSB",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$utils_8c.html#a81621440b3d65680979425e39aa8c789",tooltip=" "];
+  Node19 -> Node22 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="util_get_MSB",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$utils_8c.html#a6a880076cd2ec468834438b6e0c58836",tooltip=" "];
+  Node1 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="vg_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$video__gr_8c.html#aa6c1ff5024cd4d15e476bce487584daa",tooltip="Initializes the video module in the specified mode."];
+}

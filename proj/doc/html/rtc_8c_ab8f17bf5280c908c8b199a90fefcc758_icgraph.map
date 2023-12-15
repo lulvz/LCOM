@@ -1,0 +1,9 @@
+<map id="rtc_unsubscribe_int" name="rtc_unsubscribe_int">
+<area shape="rect" id="Node000001" title="Unsubscribes RTC interrupts." alt="" coords="439,5,574,32"/>
+<area shape="rect" id="Node000002" href="$manager_8c.html#a8841b2a95cc49b8aa5a91e798d35d002" title="Simultaniously unsubscribes to all interrupts." alt="" coords="272,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,21,392,21,392,16,425,16"/>
+<area shape="rect" id="Node000003" href="$manager_8c.html#a0328219b1431cb3caa3366c16ec81a37" title="Simultanioulsy destroys all the sprites, returns to text mode and calls unsubscribe_ints()." alt="" coords="162,5,224,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,21,224,21,224,16,257,16"/>
+<area shape="rect" id="Node000004" href="$proj_8c.html#ad290208c74ef25eb347d1d96a390cd66" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,114,21,114,16,147,16"/>
+</map>
