@@ -1,5 +1,0 @@
-./doc/* linguist-detectable=false
-./doc/*/* linguist-detectable=false
-./doc/*/*/* linguist-detectable=false
-./doc/*/*/*/* linguist-detectable=false
-./doc/*/*/*/*/* linguist-detectable=false

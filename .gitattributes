@@ -1,0 +1,5 @@
+./proj/doc/* linguist-vendored
+./proj/doc/*/* linguist-vendored
+./proj/doc/*/*/* linguist-vendored
+./proj/doc/*/*/*/* linguist-vendored
+./proj/doc/*/*/*/*/* linguist-vendored
